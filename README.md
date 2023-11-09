@@ -20,11 +20,16 @@ Permissioned access and log-ins for network users Gateway access to the Internet
 
  1. login to the network server using login link  https://iot.saveetha.in/
  2. Click on the nework server as shown blow 
+ ![image](https://github.com/SrinithiV/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/118722030/21ce6dce-9773-4469-bcbc-c40a8ec70404)
  3. click on the add gateway 
-
+![image](https://github.com/SrinithiV/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/118722030/60968db5-a6ae-4de6-94e4-d35edc6f538d)
+![image](https://github.com/SrinithiV/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/118722030/1687d213-959b-4bf8-910c-a513563d4f59)
+![image](https://github.com/SrinithiV/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/118722030/53f7c514-b65b-4c01-9318-67c3e9707a1b)
 4. click on the lora options , lora - frequency plan 
 5. click on channel s and create a new channel after which you can add a new end device 
+![image](https://github.com/SrinithiV/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/118722030/ad876519-53f9-4aac-b259-9b38f9476d21)
 6. add the attributesin the end device as  shown below 
+![image](https://github.com/SrinithiV/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/118722030/efad3fa6-6d4f-44eb-b1d3-2a4113aac6cb)
 7.using AT commands configure end device in serial port utility
 AT Commands to set initially (Mandatory)
  AT+FDR // To do factory data reset
@@ -40,11 +45,7 @@ To set APP Key
  ATZ // To take effective action on below settings (As like saving)
 
 ## OUTPUT 
-1.
-2.
-3.
-4.
-
+![image](https://github.com/SrinithiV/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/118722030/f93b1171-671a-429a-953d-ec86082fc00a)
       
 ## Results: 
   The Network server and end device for traferring data on the network has been accomplished.
